@@ -44,7 +44,7 @@ Ich entwickle komplexe Workflow-Lösungen in der DocuWare Cloud – inkl.:
 
 ## 📫 Kontakt & Links
 
-🌐 Linktree: https://niklasxskyz.de  
+🌐 Linktree: https://linktree-six-self.vercel.app/
 📧 Mail: kontakt@niklasxskyz.de  
 🔗 LinkedIn: [Niklas Albrecht](https://www.linkedin.com/in/niklas-albrecht-471408266/)  
 
